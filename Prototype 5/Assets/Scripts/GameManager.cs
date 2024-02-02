@@ -17,17 +17,6 @@ public class GameManager : MonoBehaviour
     private float spawnRate = 1.0f;
     private int score;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     IEnumerator SpawnTarget()
     {
